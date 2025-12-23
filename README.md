@@ -32,3 +32,14 @@ It demonstrates my learning and skills in **basic, intermediate, and advanced Py
 3. Run the Python file using:
    ```bash
    python filename.py
+Technologies Used
+-Python 3
+-JSON (for To-Do List)
+-Random module (for guessing game)
+-Basic file handling and string manipulation
+
+Author
+Radhakrishna Kuchi
+Email:krishnaradha11114@gmail.com
+LinkedIn:
+GitHub: Your GitHub
