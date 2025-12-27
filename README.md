@@ -41,6 +41,7 @@ Technologies Used
 -JSON (for To-Do List)
 -Random module (for guessing game)
 -Basic file handling and string manipulation
+-requests and BeautifulSoup (for API )
 
 Author
 Radhakrishna Kuchi
