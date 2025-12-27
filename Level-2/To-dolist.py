@@ -1,6 +1,5 @@
 import json
 TASK_FILE = "tasks.json"
-
 # Load tasks from file
 try:
     with open(TASK_FILE, "r") as file:
@@ -58,7 +57,6 @@ def mark_done():
             print("Invalid task number!")
     except ValueError:
         print("Please enter a valid number.")
-
 # Main menu
 while True:
     print("\n1. Show Tasks\n2. Add Task\n3. Delete Task\n4. Mark Task as Done\n5. Exit")
@@ -79,4 +77,3 @@ while True:
             print("Invalid option!")
     except ValueError:
         print("Please enter a number.")
-
