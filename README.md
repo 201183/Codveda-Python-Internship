@@ -56,13 +56,24 @@ It demonstrates my learning and skills in **basic, intermediate, and advanced Py
 - **Concepts:** file handling, encryption, exception handling  
 
 ---
+## 🚀 How to Run
 
+### Running the Django App
+1. Navigate to `task_manager`
+2. Install dependencies: `pip install django`
+3. Run server: `python manage.py runserver`
+
+### Running the Encryption Tool
+1. Install dependencies: `pip install cryptography`
+2. Run script: `python file_encryptor.py`
+   
 ## ▶ How to Run
 1. Download or clone the repository  
 2. Navigate to the required level folder  
 3. Run the Python file using:
    ```bash
    python filename.py
+   
 🛠 Technologies Used
 -Python 3
 -JSON (for To-Do List storage)
