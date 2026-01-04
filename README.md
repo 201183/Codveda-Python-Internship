@@ -40,7 +40,7 @@ It demonstrates my learning and skills in **basic, intermediate, and advanced Py
 
 ## 🔹 Level 3 – Advanced Tasks
 
-### 1. Django Web Application with Authentication
+### 1. Django Web Application with Authentication(task_manager)
 - Built a Django web application with user authentication  
 - Implemented user registration, login, and logout  
 - Secured passwords using Django’s built-in authentication system  
